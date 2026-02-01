@@ -35,4 +35,4 @@ Este proyecto está orientado a **nivel junior** y tiene como objetivo practicar
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/n.git
+   git clone https://github.com/ChikyDev/login-system
