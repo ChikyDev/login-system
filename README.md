@@ -5,18 +5,6 @@ Este proyecto está orientado a **nivel junior** y tiene como objetivo practicar
 
 ---
 
-Este README está **perfectamente alineado con tu código**.  
-No promete más de lo que hace, y eso es justo lo que se espera de un junior.
-
-Si quieres, el siguiente paso puede ser:
-- README en **inglés**
-- añadir **capturas de ejemplo**
-- enlazar varios ejercicios desde un repo principal
-
-Dime y lo dejamos aún más fino 👌
-
----
-
 ## 📌 Funcionalidades
 
 - Registro de un nombre de usuario y contraseña
